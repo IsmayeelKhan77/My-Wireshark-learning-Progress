@@ -43,7 +43,7 @@ This repository contains my first hands-on practice with:
 ---
 
 ## Proof of skill:
--I'm putting every screenshot of data analisys in separate files, you can check it out if you want.
+- I'm putting every screenshot in separate files, you can check it out if you want.
 ---
 
 ## 📌 Key Learnings
